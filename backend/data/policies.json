@@ -1,0 +1,170 @@
+[
+  {
+    "id": "attendance-policy",
+    "title": "Attendance Policy",
+    "clauses": [
+      {
+        "clauseId": "att-1",
+        "text": "Students are required to maintain a minimum attendance of 75% in each course to be eligible for examinations. Attendance is recorded for all scheduled classes, including lectures, tutorials, and practical sessions."
+      },
+      {
+        "clauseId": "att-2",
+        "text": "Medical absences must be supported by a valid medical certificate issued by a registered medical practitioner. Such certificates must be submitted to the course coordinator within three working days of the absence."
+      },
+      {
+        "clauseId": "att-3",
+        "text": "Students with attendance below 75% may be denied permission to sit for the final examinations. In such cases, they will be required to repeat the course in the subsequent semester."
+      },
+      {
+        "clauseId": "att-4",
+        "text": "Attendance records are maintained electronically and are accessible to students through the university portal. Any discrepancies must be reported to the department head within one week of the class."
+      },
+      {
+        "clauseId": "att-5",
+        "text": "Participation in university-approved extracurricular activities, such as sports events or cultural programs, may be considered as valid attendance upon submission of official documentation from the organizing body."
+      }
+    ]
+  },
+  {
+    "id": "examination-eligibility",
+    "title": "Examination Eligibility",
+    "clauses": [
+      {
+        "clauseId": "exam-1",
+        "text": "To be eligible for semester examinations, students must have completed all assigned coursework, including assignments, projects, and laboratory work, with satisfactory performance as determined by the course instructor."
+      },
+      {
+        "clauseId": "exam-2",
+        "text": "Students must clear all outstanding dues, including tuition fees and library fines, before being allowed to register for examinations. The examination office will verify this during the registration process."
+      },
+      {
+        "clauseId": "exam-3",
+        "text": "Eligibility for practical examinations requires completion of all laboratory sessions and submission of lab reports. Students failing to meet these requirements will be barred from the practical component."
+      },
+      {
+        "clauseId": "exam-4",
+        "text": "In cases of academic misconduct, such as plagiarism or cheating, students may be disqualified from the examination and subject to disciplinary action as per the university's code of conduct."
+      },
+      {
+        "clauseId": "exam-5",
+        "text": "International students must comply with visa regulations and provide necessary documentation to confirm their eligibility to continue studies and sit for examinations."
+      },
+      {
+        "clauseId": "exam-6",
+        "text": "Students on academic probation are required to meet additional criteria, including attendance in counseling sessions, to regain eligibility for examinations."
+      }
+    ]
+  },
+  {
+    "id": "re-evaluation-rules",
+    "title": "Re-evaluation Rules",
+    "clauses": [
+      {
+        "clauseId": "reeval-1",
+        "text": "Students may apply for re-evaluation of their answer scripts within 15 days of the result declaration. Applications must be submitted online through the university portal with a fee of INR 500 per paper."
+      },
+      {
+        "clauseId": "reeval-2",
+        "text": "Re-evaluation is limited to checking for totaling errors, un-evaluated portions, or improper assessment. It does not include re-grading of answers or reconsideration of marking schemes."
+      },
+      {
+        "clauseId": "reeval-3",
+        "text": "If a discrepancy is found during re-evaluation, the marks will be updated accordingly, and the fee will be refunded. No changes will be made if the original assessment is deemed correct."
+      },
+      {
+        "clauseId": "reeval-4",
+        "text": "Re-evaluation results will be communicated to students via email and the university portal within 30 days of application submission. No further appeals are permitted beyond this process."
+      },
+      {
+        "clauseId": "reeval-5",
+        "text": "Students who have passed the examination are not eligible for re-evaluation unless they suspect a computational error that could affect their grade classification."
+      }
+    ]
+  },
+  {
+    "id": "scholarship-policy",
+    "title": "Scholarship Policy",
+    "clauses": [
+      {
+        "clauseId": "schol-1",
+        "text": "Merit-based scholarships are awarded to students securing a CGPA of 8.5 or above in the previous semester. Renewal is contingent upon maintaining this performance in subsequent semesters."
+      },
+      {
+        "clauseId": "schol-2",
+        "text": "Need-based scholarships require submission of income certificates from competent authorities. The scholarship amount is determined based on family income and is disbursed in two installments per year."
+      },
+      {
+        "clauseId": "schol-3",
+        "text": "Sports scholarships are available for students excelling in inter-university competitions. Recipients must participate in at least two events annually and maintain academic performance above 7.0 CGPA."
+      },
+      {
+        "clauseId": "schol-4",
+        "text": "Scholarship recipients are required to maintain good conduct and adhere to university rules. Any disciplinary action may result in suspension or termination of the scholarship."
+      },
+      {
+        "clauseId": "schol-5",
+        "text": "Applications for scholarships must be submitted by the end of the first week of each semester. Late applications will not be considered, and scholarships are awarded on a first-come, first-served basis subject to availability."
+      },
+      {
+        "clauseId": "schol-6",
+        "text": "International students may apply for scholarships funded by external agencies, provided they meet the eligibility criteria set by the funding body and comply with university admission requirements."
+      }
+    ]
+  },
+  {
+    "id": "internship-requirement",
+    "title": "Internship Requirement",
+    "clauses": [
+      {
+        "clauseId": "int-1",
+        "text": "All undergraduate students in professional courses must complete a mandatory internship of at least 8 weeks during their summer vacation after the fourth semester."
+      },
+      {
+        "clauseId": "int-2",
+        "text": "Internships must be undertaken with organizations approved by the university's placement cell. Students are required to submit a proposal outlining the internship objectives and company details for approval."
+      },
+      {
+        "clauseId": "int-3",
+        "text": "Upon completion, students must submit an internship report, performance certificate from the employer, and a presentation to the department faculty for evaluation."
+      },
+      {
+        "clauseId": "int-4",
+        "text": "Failure to complete the internship requirement will result in withholding of the degree certificate until the requirement is fulfilled. Extensions may be granted for valid reasons with prior approval."
+      },
+      {
+        "clauseId": "int-5",
+        "text": "Students are encouraged to seek internships aligned with their career goals. The placement cell provides guidance and organizes industry interactions to facilitate internship opportunities."
+      }
+    ]
+  },
+  {
+    "id": "hostel-regulations",
+    "title": "Hostel Regulations",
+    "clauses": [
+      {
+        "clauseId": "host-1",
+        "text": "Hostel accommodation is allocated based on merit, distance from residence, and availability. Priority is given to first-year students and those from outside the city."
+      },
+      {
+        "clauseId": "host-2",
+        "text": "Residents must adhere to a curfew of 10:00 PM on weekdays and 11:00 PM on weekends. Late arrivals require prior permission from the warden and may incur penalties."
+      },
+      {
+        "clauseId": "host-3",
+        "text": "Visitors are allowed only during designated hours (10:00 AM to 6:00 PM) and must be registered at the reception. Overnight stays by visitors are strictly prohibited."
+      },
+      {
+        "clauseId": "host-4",
+        "text": "Maintenance of cleanliness and hygiene is mandatory. Residents are responsible for their rooms and common areas. Violations may lead to fines or eviction."
+      },
+      {
+        "clauseId": "host-5",
+        "text": "Consumption of alcohol, tobacco, or any prohibited substances is strictly forbidden within hostel premises. Offenders will face disciplinary action, including expulsion."
+      },
+      {
+        "clauseId": "host-6",
+        "text": "Hostel fees must be paid by the 5th of each month. Late payments will result in disconnection of utilities and may lead to termination of accommodation."
+      }
+    ]
+  }
+]
