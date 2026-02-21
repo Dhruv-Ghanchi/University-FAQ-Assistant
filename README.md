@@ -59,7 +59,7 @@ npm run dev
 # 🎓 UniPolicy Assistant  
 ### Intelligent • Deterministic • Cost-Optimized University Policy AI  
 **ScaleDown AI Challenge – Challenge 2 Submission**
-
+```
 ---
 
 ## 📌 Project Overview
